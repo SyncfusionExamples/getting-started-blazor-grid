@@ -1,13 +1,14 @@
-# Getting Started Blazor Grid
+# Getting Started with Blazor Grid
+
 This repository contains the blazor project that illustrates using [Syncfusion Grid](https://www.syncfusion.com/blazor-components/blazor-datagrid) in it. 
 
 ## Prerequisites
 
-* Visual Studio 2019
+* Visual Studio 2022
 
 ## How to run the project
 
 * Checkout this project to a location in your disk.
-* Open the solution file using the Visual Studio 2019.
+* Open the solution file using the Visual Studio 2022.
 * Restore the NuGet packages by rebuilding the solution.
 * Run the project.
